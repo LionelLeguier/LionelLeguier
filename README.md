@@ -19,6 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lionelleguier&show_icons=true&locale=en&layout=compact" alt="lionelleguier" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lionelleguier&show_icons=true&locale=en" alt="lionelleguier" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lionelleguier&" alt="lionelleguier" /></p>
