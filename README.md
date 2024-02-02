@@ -7,7 +7,7 @@
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://lionelleguier.github.io/PortfolioDeLionelLeguier/](https://lionelleguier.github.io/PortfolioDeLionelLeguier/)
 
-- 📫 Comment me contacter **lionelleguier@hotmail.fr**
+- 📫 Comment me contacter: **lionelleguier@hotmail.fr**
 
 <h3 align="left">Connectez vouz à moi:</h3>
 <p align="left">
