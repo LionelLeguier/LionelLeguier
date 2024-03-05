@@ -9,7 +9,7 @@
 
 - 📫 Comment me contacter: **lionelleguier@hotmail.fr**
 
-<h3 align="left">Connectez vouz à moi:</h3>
+<h3 align="left">Connectez vous à moi:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lionel-leguier/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lionel-leguier/" height="30" width="40" /></a>
 </p>
