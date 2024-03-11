@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lionelleguier&label=Profile%20views&color=0e75b6&style=flat" alt="lionelleguier" /> </p>
 
-- 🌱 J'apprends actuellement **ReactJS et le déveleppoment Sage X3**
+- 🌱 J'apprends actuellement la **BI**
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://lionelleguier.github.io/PortfolioDeLionelLeguier/](https://lionelleguier.github.io/PortfolioDeLionelLeguier/)
 
