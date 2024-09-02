@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour👋, Je suis Lionel Leguier</h1>
-<h3 align="center">Etudiant en L3 Miage et Alternant pour Vinci Energies SI en tant que Support informatique de gestion</h3>
+<h3 align="center">Etudiant en MI Miage et Alternant pour Vinci Energies SI en tant que Chef de projet SI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lionelleguier&label=Profile%20views&color=0e75b6&style=flat" alt="lionelleguier" /> </p>
 
